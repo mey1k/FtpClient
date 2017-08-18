@@ -1,0 +1,5 @@
+F:\FTPClient\bin\Debug\InpegFtpClientLib.dll
+F:\FTPClient\bin\Debug\InpegFtpClientLib.pdb
+F:\FTPClient\obj\Debug\InpegFtpClientLib.csprojResolveAssemblyReference.cache
+F:\FTPClient\obj\Debug\InpegFtpClientLib.dll
+F:\FTPClient\obj\Debug\InpegFtpClientLib.pdb
